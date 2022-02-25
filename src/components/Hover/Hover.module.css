@@ -1,0 +1,13 @@
+.hoverElement{
+   width: 100px;
+   height: 100px;
+}
+
+.hoverElement.red{
+   background-color: red;
+}
+
+.hoverElement.green{
+   background-color: green;
+
+}
